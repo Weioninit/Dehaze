@@ -1,0 +1,19 @@
+﻿生成启动时间为 2016/3/28 17:07:07。
+     1>项目“F:\VCP\C++code\Dehazing_Mean filter\Dehazing_Mean filter\Dehazing_Mean filter.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         E:\Microsoft Visual Studio 14.0\VC\bin\x86_amd64\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /D _DEBUG /D _CONSOLE /D _CRT_SECURE_NO_WARNINGS /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"x64\Debug\\" /Fd"x64\Debug\vc140.pdb" /Gd /TP /errorReport:prompt Dehazing_Meanfilter.cpp main.cpp main_img.cpp
+         main_img.cpp
+         main.cpp
+         Dehazing_Meanfilter.cpp
+     1>f:\vcp\c++code\dehazing_mean filter\dehazing_mean filter\dehazing_meanfilter.cpp(114): warning C4101: “Mean_Max”: 未引用的局部变量
+         正在生成代码...
+       Link:
+         E:\Microsoft Visual Studio 14.0\VC\bin\x86_amd64\link.exe /ERRORREPORT:PROMPT /OUT:"F:\VCP\C++code\Dehazing_Mean filter\x64\Debug\Dehazing_Mean filter.exe" /INCREMENTAL /NOLOGO opencv_ml2410d.lib opencv_calib3d2410d.lib opencv_contrib2410d.lib opencv_core2410d.lib opencv_features2d2410d.lib opencv_flann2410d.lib opencv_gpu2410d.lib opencv_highgui2410d.lib opencv_imgproc2410d.lib opencv_legacy2410d.lib opencv_objdetect2410d.lib opencv_ts2410d.lib opencv_video2410d.lib opencv_nonfree2410d.lib opencv_ocl2410d.lib opencv_photo2410d.lib opencv_stitching2410d.lib opencv_superres2410d.lib opencv_videostab2410d.lib opencv_objdetect2410d.lib opencv_ts2410d.lib opencv_video2410d.lib opencv_nonfree2410d.lib opencv_ocl2410d.lib opencv_photo2410d.lib opencv_stitching2410d.lib opencv_superres2410d.lib opencv_videostab2410d.lib opencv_calib3d2410d.lib opencv_contrib2410d.lib opencv_core2410d.lib opencv_features2d2410d.lib opencv_flann2410d.lib opencv_gpu2410d.lib opencv_highgui2410d.lib opencv_imgproc2410d.lib opencv_legacy2410d.lib opencv_ml2410d.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /Debug /PDB:"F:\VCP\C++code\Dehazing_Mean filter\x64\Debug\Dehazing_Mean filter.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"F:\VCP\C++code\Dehazing_Mean filter\x64\Debug\Dehazing_Mean filter.lib" /MACHINE:X64 x64\Debug\Dehazing_Meanfilter.obj
+         x64\Debug\main.obj
+         x64\Debug\main_img.obj
+         Dehazing_Mean filter.vcxproj -> F:\VCP\C++code\Dehazing_Mean filter\x64\Debug\Dehazing_Mean filter.exe
+     1>已完成生成项目“F:\VCP\C++code\Dehazing_Mean filter\Dehazing_Mean filter\Dehazing_Mean filter.vcxproj”(Build 个目标)的操作。
+
+已成功生成。
+
+已用时间 00:00:07.07

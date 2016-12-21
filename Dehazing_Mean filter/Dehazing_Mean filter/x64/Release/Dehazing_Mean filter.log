@@ -1,0 +1,21 @@
+﻿生成启动时间为 2016/12/19 11:26:07。
+     1>项目“F:\VCP\C++code\Dehazing_Mean filter\Dehazing_Mean filter\Dehazing_Mean filter.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         E:\Microsoft Visual Studio 14.0\VC\bin\x86_amd64\CL.exe /c /Zi /nologo /W3 /WX- /sdl /O2 /Oi /GL /D NDEBUG /D _CONSOLE /D _CRT_SECURE_NO_WARNINGS /D _UNICODE /D UNICODE /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"x64\Release\\" /Fd"x64\Release\vc140.pdb" /Gd /TP /errorReport:prompt main.cpp
+         main.cpp
+     1>main.cpp(22): warning C4101: “imInput”: 未引用的局部变量
+       Link:
+         E:\Microsoft Visual Studio 14.0\VC\bin\x86_amd64\link.exe /ERRORREPORT:PROMPT /OUT:"F:\VCP\C++code\Dehazing_Mean filter\x64\Release\Dehazing_Mean filter.exe" /INCREMENTAL:NO /NOLOGO opencv_ml2410.lib opencv_calib3d2410.lib opencv_contrib2410.lib opencv_core2410.lib opencv_features2d2410.lib opencv_flann2410.lib opencv_gpu2410.lib opencv_highgui2410.lib opencv_imgproc2410.lib opencv_legacy2410.lib opencv_objdetect2410.lib opencv_ts2410.lib opencv_video2410.lib opencv_nonfree2410.lib opencv_ocl2410.lib opencv_photo2410.lib opencv_stitching2410.lib opencv_superres2410.lib opencv_videostab2410.lib opencv_objdetect2410.lib opencv_ts2410.lib opencv_video2410.lib opencv_nonfree2410.lib opencv_ocl2410.lib opencv_photo2410.lib opencv_stitching2410.lib opencv_superres2410.lib opencv_videostab2410.lib opencv_calib3d2410.lib opencv_contrib2410.lib opencv_core2410.lib opencv_features2d2410.lib opencv_flann2410.lib opencv_gpu2410.lib opencv_highgui2410.lib opencv_imgproc2410.lib opencv_legacy2410.lib opencv_ml2410.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /Debug /PDB:"F:\VCP\C++code\Dehazing_Mean filter\x64\Release\Dehazing_Mean filter.pdb" /SUBSYSTEM:CONSOLE /OPT:REF /OPT:ICF /LTCG:incremental /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"F:\VCP\C++code\Dehazing_Mean filter\x64\Release\Dehazing_Mean filter.lib" /MACHINE:X64 x64\Release\Dehazing_Meanfilter.obj
+         x64\Release\main.obj
+         x64\Release\main_img.obj
+         正在生成代码
+         1 of 24 functions ( 4.2%) were compiled, the rest were copied from previous compilation.
+           0 functions were new in current compilation
+           0 functions had inline decision re-evaluated but remain unchanged
+         已完成代码的生成
+         Dehazing_Mean filter.vcxproj -> F:\VCP\C++code\Dehazing_Mean filter\x64\Release\Dehazing_Mean filter.exe
+     1>已完成生成项目“F:\VCP\C++code\Dehazing_Mean filter\Dehazing_Mean filter\Dehazing_Mean filter.vcxproj”(Build 个目标)的操作。
+
+已成功生成。
+
+已用时间 00:00:07.48
