@@ -1,0 +1,24 @@
+﻿生成启动时间为 2015/10/27 8:50:11。
+     1>项目“F:\VCP\opencv code\Kim——dehazing_v11\src\Dehazing_SSE_CPP.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         E:\Microsoft Visual Studio 14.0\VC\bin\x86_amd64\CL.exe /c /ZI /nologo /W3 /WX- /Od /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"x64\Debug\\" /Fd"x64\Debug\vc140.pdb" /Gd /TP /errorReport:prompt Transmission.cpp dehazing.cpp main.cpp
+         main.cpp
+         dehazing.cpp
+     1>f:\vcp\opencv code\kim——dehazing_v11\src\dehazing.cpp(656): warning C4305: “参数”: 从“double”到“float”截断
+         Transmission.cpp
+     1>f:\vcp\opencv code\kim——dehazing_v11\src\transmission.cpp(231): warning C4101: “nSquaredOut”: 未引用的局部变量
+     1>f:\vcp\opencv code\kim——dehazing_v11\src\transmission.cpp(450): warning C4101: “nSquaredOut”: 未引用的局部变量
+         正在生成代码...
+       Link:
+         E:\Microsoft Visual Studio 14.0\VC\bin\x86_amd64\link.exe /ERRORREPORT:PROMPT /OUT:"F:\VCP\opencv code\Kim——dehazing_v11\src\x64\Debug\Dehazing_SSE_CPP.exe" /INCREMENTAL /NOLOGO opencv_calib3d2410d.lib opencv_contrib2410d.lib opencv_core2410d.lib opencv_features2d2410d.lib opencv_flann2410d.lib opencv_gpu2410d.lib opencv_highgui2410d.lib opencv_imgproc2410d.lib opencv_legacy2410d.lib opencv_ml2410d.lib opencv_nonfree2410d.lib opencv_objdetect2410d.lib opencv_ocl2410d.lib opencv_photo2410d.lib opencv_stitching2410d.lib opencv_superres2410d.lib opencv_ts2410d.lib opencv_video2410d.lib opencv_videostab2410d.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /Debug /PDB:"F:\VCP\opencv code\Kim——dehazing_v11\src\x64\Debug\Dehazing_SSE_CPP.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"F:\VCP\opencv code\Kim——dehazing_v11\src\x64\Debug\Dehazing_SSE_CPP.lib" /MACHINE:X64 x64\Debug\dehazing.obj
+         x64\Debug\functions.obj
+         x64\Debug\Guidedfilter.obj
+         x64\Debug\main.obj
+         x64\Debug\main_img.obj
+         x64\Debug\Transmission.obj
+         Dehazing_SSE_CPP.vcxproj -> F:\VCP\opencv code\Kim——dehazing_v11\src\x64\Debug\Dehazing_SSE_CPP.exe
+     1>已完成生成项目“F:\VCP\opencv code\Kim——dehazing_v11\src\Dehazing_SSE_CPP.vcxproj”(Build 个目标)的操作。
+
+已成功生成。
+
+已用时间 00:00:09.45
